@@ -29,9 +29,9 @@ To understand how discounting impacts profit and identify which product categori
 
 ## Files Included
 - python/sales_analysis.py
-- powerbi/Sales_Performance_Dashboard.pbix
-- images/dashboard_preview.png
 - data/superstore.csv
+- Sales_Performance_Dashboard.pbix
+- dashboard_preview.png
 
 ## Dashboard Preview
 ![Dashboard](dashboard_preview.png)
